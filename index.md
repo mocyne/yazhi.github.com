@@ -20,12 +20,12 @@ His current research interests include Computer Networks and Mobile Computing.
 
 #### 2014
 1. Zheng Song, Edith Ngai, Jian Ma, Xiangyang Gong, Yazhi Liu, Wendong Wang. Incentive Mechanism for Participatory Sensing under Budget Constraints. in the IEEE Wireless Communications and Networking Conference (WCNC) 2014, pp. 3361-3366.
-2. Yu Ding, Yazhi Liu, Xiangyang Gong, Wendong Wang. Road traffic and geography topology based opportunistic routing for VANETs, The Journal of China Universities of Posts and Telecommunications, Vol. 21, No. 4, August 2014, pp. 32-39. 
+2. Yu Ding, Yazhi Liu, Xiangyang Gong, Wendong Wang. Road Traffic and Geography Topology based Opportunistic Routing for VANETs, The Journal of China Universities of Posts and Telecommunications, Vol. 21, No. 4, August 2014, pp. 32-39. 
 3. Xiong Li, Jianwei Niu, Yazhi Liu, Junguo Liao, Wei Liang. Robust Dynamic ID-based Remote User Authentication Scheme Using Smart Cards. International Journal of Ad Hoc and Ubiquitous Computing, Vol 17, No. 4, 2014, pp. 254-264.
 
 #### 2013 and before
 1. Yazhi Liu, Jianwei Niu, Jian Ma, Wendong Wang. File Downloading Oriented Roadside Units Deployment for Vehicular Networks. Journal of Systems Architecture, 1 July 2013. 
-2. Yazhi Liu, Jianwei Niu, Jian Ma, et al. The insights of message delivery delay in VANETs with a bidirectional traffic model. Journal of Network and Computer Applications (JNCA), Volume 36, Issue 5, September 2013, pp. 1287-1294.
+2. Yazhi Liu, Jianwei Niu, Jian Ma, et al. The Insights of Message Delivery Delay in VANETs with a Bidirectional Traffic Model. Journal of Network and Computer Applications (JNCA), Volume 36, Issue 5, September 2013, pp. 1287-1294.
 3. Jianwei Niu, Yazhi Liu, Lei Shu. Message Dissemination in Delay-Tolerant Networks with Probabilistic Encounters. Journal of Internet Technology, 2013, 14(3):387-399.
 4. Jianwei Niu, Mingzhu Liu, Yazhi Liu, Lei Shu, Dapeng Wu. A Venues-Aware Message Routing Scheme for Delay Tolerant Networks, WCMC, 2013. 
 5. Yazhi Liu, Jian Ma, Jianwei Niu, Yan Zhang, Wendong Wang. Roadside Units Deployment for Content Downloading in Vehicular Networks. ICC 2013, June 9-13, Budapest, Hungary.

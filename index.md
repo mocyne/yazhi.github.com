@@ -9,7 +9,7 @@ His current research interests include Computer Networks and Mobile Computing.
 ### List of Publications
 
 #### 2020
-1. Ke Chen, Yazhi Liu, Sihan Wang. Survey of research on flow scheduling strategies based on traffic characteristics. Application Research of Computers, Vol. 37, No. 10, 2020.
+1. Ke Chen, Yazhi Liu, Sihan Wang. Survey of Research on Flow Scheduling Strategies Based on Traffic Characteristics. Application Research of Computers, Vol. 37, No. 10, 2020.
 
 #### 2016
 1. Yazhi Liu, Jianwei Niu. Comprehensive Tempo-Spatial Data Collection in Crowd Sensing using a Heterogeneous Sensing Vehicle Selection Method. Personal and Ubiquitous Computing, 2016, vol 20, no. 3, pp. 397-411.

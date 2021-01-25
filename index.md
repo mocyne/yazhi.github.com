@@ -1,6 +1,10 @@
 ## Welcome to Yazhi Liu's Homepage
 
-Yazhi Liu, received his B.Sc., M.S. and Ph.D. degrees in 2005, 2008 and 2013 in computer science from Beijing University of Posts and Telecommunications (BUPT), China. He was a visiting scholar at Department of Computer Science, Tsinghua University, China from Sep. 2019  to Jul. 2020. He is an Associate Professor  and the Dean of the Department of Computer Science and Techology, North China University of Science and Technology, China. His current research interests include Computer Networks and Mobile Computing.
+Yazhi Liu, Associate Professor, received his B.Sc., M.S. and Ph.D. degrees in 2005, 2008 and 2013 in computer science and technology from Beijing University of Posts and Telecommunications (BUPT), China. He was a visiting scholar at Department of Computer Science, Tsinghua University, China from Sep. 2019  to Jul. 2020. 
+
+Now, he is the Dean of the Department of Computer Science and Techology, North China University of Science and Technology, China. 
+
+His current research interests include Computer Networks and Mobile Computing.
 
 ### List of Publications
 

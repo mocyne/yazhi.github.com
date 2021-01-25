@@ -6,6 +6,8 @@ Now, he is the Dean of the Department of Computer Science and Techology, North C
 
 His current research interests include Computer Networks and Mobile Computing.
 
+Email: liuyazhi@ncst.edu.cn
+
 ### List of Publications
 
 #### 2020

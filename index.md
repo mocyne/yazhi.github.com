@@ -10,6 +10,9 @@ Email: liuyazhi@ncst.edu.cn
 
 ### List of Publications
 
+#### 2021
+1. Yazhi Liu, Jiye Zhang, Wei Li, Qianqian Wu, Pengmiao Li. Load Balancing Oriented Predictive Routing Algorithm for Data Center Networks. Future Internet, 2021.
+
 #### 2020
 1. Ke Chen, Yazhi Liu, Sihan Wang. Survey of Research on Flow Scheduling Strategies Based on Traffic Characteristics. Application Research of Computers, Vol. 37, No. 10, 2020.
 
